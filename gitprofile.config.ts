@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Tricia Van Laar Website',
     description: '',
     imageURL: '',
   },
