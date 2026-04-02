@@ -122,10 +122,22 @@ const CONFIG = {
       to: '2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'University of Texas at San Antonio',
+      degree: 'PhD: Cell and Molecular Biology',
+      from: '2007',
+      to: '2012',
+    },
+    {
+      institution: 'University of the Pacific',
+      degree: 'MS: Biological Sciences',
+      from: '2007',
+      to: '2012',
+    },
+    {
+      institution: 'CSU Stanislaus',
+      degree: 'BS: Biological Sciences, Minor: Chemistry, Concentration: Genetics',
+      from: '2007',
+      to: '2012',
     },
   ],
   publications: [
