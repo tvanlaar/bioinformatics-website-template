@@ -116,10 +116,10 @@ const CONFIG = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'CSU Fresno',
+      degree: 'MBA',
+      from: '2020',
+      to: '2024',
     },
     {
       institution: 'Institution Name',
